@@ -3,49 +3,46 @@ Title: Random Password Generator
 Random Password Generator is a simple command-line application developed using Python. This program generates random passwords based on the length entered by the user. It uses letters, numbers, and special characters to create a random password.
 
 Features:
- - 
-
+ 1. Generate a random password.
+ 2. Choose the desired password length.
+ 3. Uses uppercase and lowercase letters.
+ 4. Uses numbers.
+ 5. Uses special characters.
+ 6. Displays the characters used for password generation.
+ 7. Command-line interface.
 
 Technologies Used:
-Python
-VS code
+ 1. Python
+ 2. VS code
+
 Python Concepts Used:
+ 1. Variables
+ 2. User input
+ 3. Loops
+ 4. String Manipulation
+ 5. random module
+ 6. string module
+ 7. random.choice()
+ 8. string.ascii_letters
+ 9. string.digits
+ 10. string.punctuation
 
-List
-Dictionaries
-Functions
-Conditions
-Loops
-User input
-enumerate()
-pop()
-append()
-float()
-Arithmetic operation.
-Error Handling
 How to Run:
+ 1. Download the project file.
+ 2. Open the project file in your VS code or any other editor. Make sure that python is installed in your computer.
+ 3. Open the terminal in project folder.
+ 4. Run this command "python Expense_Tracker.py" and press enter. Or simply run and debug the project.
+ 5. Program will run.
+ 6. Enter the desired password length.
+ 7. The program will generate and display a random password.
 
-Download the project file.
-Open the project file in your VS code or any other editor. Make sure that python is installed in your computer.
-Open the terminal in project folder.
-Run this command "python Expense_Tracker.py" and press enter. Or simply run and debug the project.
-Program will run.
-Follow the menu shown on the terminal.
 Sample Output:
+- 
 
-https://github.com/AmimaBatool/Task-2_AmimaBatool/blob/main/SampleOutput_ExpenseTracker_Part-1.png
-https://github.com/AmimaBatool/Task-2_AmimaBatool/blob/main/SampleOutput_ExpenseTracker_Part-2.png
-https://github.com/AmimaBatool/Task-2_AmimaBatool/blob/main/SampleOutput_ExpenseTracker_Part-3.png
-https://github.com/AmimaBatool/Task-2_AmimaBatool/blob/main/SampleOutput_ExpenseTracker_Part-4.png
-https://github.com/AmimaBatool/Task-2_AmimaBatool/blob/main/SampleOutput_ExpenseTracker_Part-5.png
-https://github.com/AmimaBatool/Task-2_AmimaBatool/blob/main/SampleOutput_ExpenseTracker_Part-6.png
 What I Learned:
-
-I learned how to build a simple command line application using Python.
-How to store, update, delete and handle multiple tasks in list.
-Practice Arithmetic operations and Data Accumulation.
-How to use dictionary, according to requirements.
-How to create and use functions.
-How to use loops and conditional statements.
-How to handle basic user input and errors.
-I also gained hand-on experience on how to create a project for a workplace.
+ - I learned how to create a simple command-line application using Python.
+ - I learned how to use Python's random and string modules.
+ - I practiced using loops and user input.
+ - I learned how to generate random characters using random.choice().
+ - I practiced combining letters, numbers, and special characters.
+ - I gained hands-on experience in developing and testing a Python project.
