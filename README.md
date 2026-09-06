@@ -31,7 +31,7 @@ How to Run:
  1. Download the project file.
  2. Open the project file in your VS code or any other editor. Make sure that python is installed in your computer.
  3. Open the terminal in project folder.
- 4. Run this command "python Expense_Tracker.py" and press enter. Or simply run and debug the project.
+ 4. Run this command "python Random_Password_Generator.py" and press enter. Or simply run and debug the project.
  5. Program will run.
  6. Enter the desired password length.
  7. The program will generate and display a random password.
