@@ -37,6 +37,7 @@ How to Run:
  7. The program will generate and display a random password.
 
 Sample Output:
+- https://github.com/AmimaBatool/Task-3_AmimaBatool/blob/main/SampleOutput_Password-Generator_part-1.png
 - 
 
 What I Learned:
