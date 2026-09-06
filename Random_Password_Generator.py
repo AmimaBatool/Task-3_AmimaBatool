@@ -24,3 +24,5 @@ for i in range(length):
 
 print("Random Password: ", password)
 print()
+print("---Password Generated Successfully!---")
+print()
