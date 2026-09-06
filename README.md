@@ -38,7 +38,7 @@ How to Run:
 
 Sample Output:
 - https://github.com/AmimaBatool/Task-3_AmimaBatool/blob/main/SampleOutput_Password-Generator_part-1.png
-- 
+- https://github.com/AmimaBatool/Task-3_AmimaBatool/blob/main/SampleOutput_Password-Generator_part-2.png
 
 What I Learned:
  - I learned how to create a simple command-line application using Python.
